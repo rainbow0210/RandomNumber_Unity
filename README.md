@@ -48,7 +48,7 @@ cd RandomNumber_Unity
 - TextMeshPro 公式ドキュメント: https://docs.unity3d.com/Packages/com.unity.textmeshpro@latest
 
 ## ライセンス
-Unlicense
+Unlicense license
 
 # English
 ## Overview
@@ -98,4 +98,4 @@ Assign the target `TextMeshPro` objects to the `text_number` array in `RandomNum
 - TextMeshPro Documentation: https://docs.unity3d.com/Packages/com.unity.textmeshpro@latest
 
 ## License
-Unlicense
+Unlicense license
